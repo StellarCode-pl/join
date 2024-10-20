@@ -1,0 +1,8 @@
+name: SCjoin
+authors: [StellarCode, Matisio]
+version: '1.0'
+main: pl.stellarcode.test.main
+api-version: '1.13'
+commands:
+  join:
+    description: komenda fajna
